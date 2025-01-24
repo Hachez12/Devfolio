@@ -1,0 +1,93 @@
+{
+    "basic": {
+        "firstName": "Clebson",
+        "lastName": "Costa",
+        "age": 34,
+        "email": "clebsoncostaconstrucoes@gmail.com",
+        "phone": "+55 31 994413001",
+        "address": "Lagoa Santa, MG",
+        "photos": [
+            "images/photos/black-white.png",
+            "images/photos/colored.jpeg",
+            "images/photos/mobile.jpeg"
+        ],
+        "resume": "https://drive.google.com/drive/u/0/folders/1E6NxJlmnW2lTYTszcbODdpXiPFYe_kBM"
+    },
+    "socials": [
+        
+        {
+            "icon": "fa-brands fa-instagram",
+            "url": "https://www.instagram.com/clebsoncostaconstrucoes/"
+        }
+    ],
+    "about": {
+        "heading": "Me chamo Clebson Costa, trabalho com construção e reforma, realizando serviços por empreitada com qualidade e dedicação.",
+        "description": "Atuo há 15 anos no ramo da construção civil, com ampla experiência em construção e reformas de casas e espaços. Nos últimos 10 anos, tenho trabalhado como encarregado de obras, liderando equipes, gerenciando projetos e assegurando que cada etapa seja realizada com excelência. Meu foco está em entregar qualidade, cumprir prazos e transformar sonhos em realidade, sempre com dedicação e profissionalismo.",
+        "tech": [
+            
+        ],
+        "works": [
+           
+        ]
+    },
+    "services": [
+       
+    ],
+    "projects": [
+        {
+            "banner": "images/services/done.png",
+            "icon": "images/services/done.png",
+            "title": "Reforma frente da Casa",
+            "description": "Confira mais fotos sobre a reforma clicando aqui!",
+            "link": "https://drive.google.com/file/d/1rr5TCCzJqS65TvbhZ9nzCFETObJu1Ze4/view?usp=sharing"
+        },
+        {
+            "banner": "images/services/goumet-Photoroom.jpg",
+            "icon": "images/services/goumet-Photoroom.jpg",
+            "title": "Reforma",
+            "description": "construcao de uma area goumert",
+            "link": "https://drive.google.com/file/d/1OmaNXjkcUoBEPH57wGy5o5HpFyrVs_LN/view?usp=sharing"
+        },
+        {
+            "banner": "images/services/blog.png",
+            "icon": "images/services/blog.png",
+            "title": "Reforma da piscina",
+            "description": "Confira mais fotos sobre a reforma clicando aqui!",
+            "link": "https://drive.google.com/file/d/1ZbPFE6B1GpIbUh4ETuqqnf8r5wEr4GNT/view?usp=sharing"
+        },
+        {
+            "banner": "images/projects/hereiamB.png",
+            "icon": "images/projects/hereiam.png",
+            "title": "Construções",
+            "description": "",
+            "link": ""
+        },
+        {
+            "banner": "images/projects/covidB.png",
+            "icon": "images/projects/covid.png",
+            "title": "Novas reformas",
+            "description": "",
+            "link": ""
+        }
+    ],
+    "contact": [
+        {
+            "icon": "fa-duotone fa-solid fa-house",
+            "title": "Localização",
+            "description": "Lagoa Santa, MG",
+            "action": "https://maps.app.goo.gl/SftU4x8EzvGaNKws8"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-phone",
+            "title": "Telefone",
+            "description": "+55 31 998362529",
+            "action": "https://wa.me/+5531998362529"
+        },
+        {
+            "icon": "fa-duotone fa-solid fa-envelope",
+            "title": "Email",
+            "description": "clebsoncostaconstrucoes@gmail.com",
+            "action": "mailto:clebsoncostaconstrucoes@gmail.com"
+        }
+    ]
+}
